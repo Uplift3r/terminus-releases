@@ -1,5 +1,7 @@
 {
   "latest": "0.9.14",
-  "plugin": "0.9.12",
-  "notes": "Coach doors are back: front and rear"
+  "plugin": "0.9.16",
+  "notes": "Coach doors are back: front and rear",
+  "pluginUrl": "https://github.com/Uplift3r/terminus-releases/releases/download/plugin-0.9.16/ets2deck.dll",
+  "pluginSha256": "9ef73f0fbafa40f8d86f60fb62b294f2641743fb3a5fe86bb268d2f8221ed757"
 }
