@@ -1,7 +1,7 @@
 {
   "latest": "0.9.14",
-  "plugin": "1.0.5",
-  "notes": "Plugin 1.0.5: crashes counted from the damage the game reports, coach passenger satisfaction from your saves, routing to the pickup of a Freight Market job, and routes that keep to the roads the game's GPS uses",
-  "pluginUrl": "https://github.com/Uplift3r/terminus-releases/releases/download/plugin-1.0.5/ets2deck.dll",
-  "pluginSha256": "23a9d71ff15393f611e015f9b281cb1f0bbce7b16a0eb6af9c73158d22eb1298"
+  "plugin": "1.0.6",
+  "notes": "Plugin 1.0.6: the plugin file is now terminusdeck.dll; the Terminus app renames the old ets2deck.dll for you. Also: crashes counted from the damage the game reports, coach passenger satisfaction from your saves, routing to the pickup of a Freight Market job",
+  "pluginUrl": "https://github.com/Uplift3r/terminus-releases/releases/download/plugin-1.0.6/terminusdeck.dll",
+  "pluginSha256": "9f8893793f32e2d4f5c61d59c52657e8e7bb32b69a82ffc7e0c678702ec5636d"
 }
