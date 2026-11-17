@@ -1,7 +1,7 @@
 {
-  "latest": "0.9.14",
-  "plugin": "1.0.14",
-  "notes": "Plugin 1.0.14: routes now go into the company yard and match the game's GPS (distances compared in the game's own units, ferries handled), map mods like ProMods are read automatically (restart the game after turning one on), more rest areas, fuel and weigh stations on the map, and a picked Freight Market job shows its route at once. The data folder moves from ETS2Deck to TerminusDeck by itself.",
-  "pluginUrl": "https://github.com/Uplift3r/terminus-releases/releases/download/plugin-1.0.14/terminusdeck.dll",
-  "pluginSha256": "d58c75554b2eca355ca32b9ee38aeb0fc017db44e5e3b49a2268566ef3a46c52"
+  "latest": "1.0.0",
+  "plugin": "1.0.0",
+  "notes": "Terminus 1.0.0, the launch release: trackpad mode for the game menus, Enter at every place the game offers it, wheel buttons for the radio and PC volume, plus navigation, real switches, radio, coach mode, cab and career.",
+  "pluginUrl": "https://github.com/Uplift3r/terminus-releases/releases/download/plugin-1.0.0/terminusdeck.dll",
+  "pluginSha256": "bb190a30c479d64c8e084182b704b08ceb1c1dfe50cfa613e11f4686b36de2d3"
 }
