@@ -1,7 +1,7 @@
 {
   "latest": "0.9.14",
-  "plugin": "1.0.6",
-  "notes": "Plugin 1.0.6: the plugin file is now terminusdeck.dll; the Terminus app renames the old ets2deck.dll for you. Also: crashes counted from the damage the game reports, coach passenger satisfaction from your saves, routing to the pickup of a Freight Market job",
-  "pluginUrl": "https://github.com/Uplift3r/terminus-releases/releases/download/plugin-1.0.6/terminusdeck.dll",
-  "pluginSha256": "9f8893793f32e2d4f5c61d59c52657e8e7bb32b69a82ffc7e0c678702ec5636d"
+  "plugin": "1.0.14",
+  "notes": "Plugin 1.0.14: routes now go into the company yard and match the game's GPS (distances compared in the game's own units, ferries handled), map mods like ProMods are read automatically (restart the game after turning one on), more rest areas, fuel and weigh stations on the map, and a picked Freight Market job shows its route at once. The data folder moves from ETS2Deck to TerminusDeck by itself.",
+  "pluginUrl": "https://github.com/Uplift3r/terminus-releases/releases/download/plugin-1.0.14/terminusdeck.dll",
+  "pluginSha256": "d58c75554b2eca355ca32b9ee38aeb0fc017db44e5e3b49a2268566ef3a46c52"
 }
